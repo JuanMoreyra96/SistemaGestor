@@ -3,7 +3,7 @@
 
 ClienteArchivo::ClienteArchivo()
 {
-    _NombreArchivo = "Clientes.bat";
+    _NombreArchivo = "Clientes.dat";
 }
 ClienteArchivo::ClienteArchivo(std::string nombrearchivo)
 {

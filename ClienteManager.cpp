@@ -28,6 +28,7 @@ void ClienteManager::CargarCliente()
         cout << "Se guardo correctamente" << endl;
     }else{
         cout << "Hubo un error al guardar" << endl;
+
     }
     }
 
