@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\sistemagestor\main.cpp
+	<iostream>
+
+1745585318 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\sistemagestor\cliente.cpp
+	"cliente.h"
+	"cstring"
+	"cliente.h"
+
+1745585134 c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\sistemagestor\cliente.h
+	<string>
+
+1745592626 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\main.cpp
+	<iostream>
+	"cliente.h"
+	"clientemenu.h"
+
+1745588418 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\cliente.cpp
+	"cliente.h"
+	<iostream>
+	"cstring"
+
+1745589569 c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\cliente.h
+	<iostream>
+	<string>
+
+1745591076 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientearchivo.cpp
+	"ClienteArchivo.h"
+
+1745590990 c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientearchivo.h
+	"Cliente.h"
+	<string>
+
+1745593823 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientemanager.cpp
+	"clientemanager.h"
+	<iostream>
+	<string>
+	"cliente.h"
+	"clientearchivo.h"
+
+1745592360 c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientemanager.h
+
+1745592559 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientemenu.cpp
+	"clientemenu.h"
+	"clientemanager.h"
+	<iostream>
+	"cliente.h"
+
+1745592492 c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientemenu.h
+
