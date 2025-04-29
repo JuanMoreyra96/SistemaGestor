@@ -11,4 +11,5 @@ public:
     ClienteArchivo();
     ClienteArchivo(std::string _NombreArchivo);
     bool Guardar(Cliente Registro);
+    void Buscar();
 };

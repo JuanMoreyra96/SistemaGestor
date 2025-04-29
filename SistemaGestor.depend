@@ -24,10 +24,10 @@
 	<iostream>
 	<string>
 
-1745600338 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientearchivo.cpp
+1745937942 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientearchivo.cpp
 	"ClienteArchivo.h"
 
-1745590990 c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientearchivo.h
+1745939958 c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientearchivo.h
 	"Cliente.h"
 	<string>
 
@@ -40,7 +40,7 @@
 
 1745592360 c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientemanager.h
 
-1745592559 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientemenu.cpp
+1745937751 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\escritorio\repos\sistemagestor\clientemenu.cpp
 	"clientemenu.h"
 	"clientemanager.h"
 	<iostream>

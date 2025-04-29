@@ -45,7 +45,7 @@ void ClienteMenu::Mostrar()
             break;
 
         }
-        system("cls");
+        //system("cls");
     }
     while (opcion!=5);
 

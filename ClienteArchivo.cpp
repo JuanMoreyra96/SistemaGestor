@@ -1,5 +1,6 @@
 #include "ClienteArchivo.h"
 
+//Cada registro pesa 96 bytes
 
 ClienteArchivo::ClienteArchivo()
 {
@@ -22,4 +23,9 @@ return false;
 result= fwrite(&Registro,sizeof(Cliente),1,pFile);
 fclose(pFile);
 return result;
+}
+
+void ClienteArchivo::Buscar()
+{
+
 }
